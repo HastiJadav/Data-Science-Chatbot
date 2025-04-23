@@ -73,5 +73,5 @@ This chatbot bridges that gap by offering:
 
 ## 🙋‍♀️ Created By
 
-**Hasti Jadav**  
+**Hasti Natvar Jadav**  
 Aspiring Data Analyst | Passionate about AI and Data | Creative & Hardworking 🌟
