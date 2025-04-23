@@ -3,15 +3,15 @@
 
 This is an intelligent, fast, and interactive chatbot designed to help users learn and explore topics in **Data Science**. It supports various domains including:
 
-- SQL  
-- Machine Learning  
-- Deep Learning  
-- Python  
-- Power BI  
-- Tableau  
+- SQL  🧮
+- Machine Learning 🤖 
+- Deep Learning  🧠🕸️
+- Python  🐍
+- Power BI / Tableau  📈
 - Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-
+- Exploratory Data Analysis (EDA) 🧹
+- Statistics 📊
+- 
 Users can upload files, download chats, and interact through a clean and simple UI built with Streamlit.
 
 ---
